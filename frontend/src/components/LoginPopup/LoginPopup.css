@@ -17,7 +17,7 @@
     gap: 25px;
     padding: 25px 30px;
     font-size: 14px;
-    animation: forwards 0.5s;
+    animation: fadeIn 2s;
     border-radius: 12px;
 }
 
